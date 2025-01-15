@@ -1,3 +1,5 @@
 public class SampleQuiz {
-    public static void main(String)
+    public static void main(String[] args) {
+        
+    }
 }
